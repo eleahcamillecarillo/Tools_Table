@@ -77,8 +77,8 @@ function App() {
     <div className="app">
       <header className="hero">
         <div>
-          <p className="hero-tag">Pink Gradient Toolbox</p>
-          <h1>Full Stack Tools Table</h1>
+          <p className="hero-tag">My Tools Table</p>
+          <h1>Camille's ToolBox</h1>
           <p>
             Browse, filter, and reorder your tools with a smooth, responsive
             interface.
