@@ -43,13 +43,12 @@ function ToolsTable({ tools, onRowClick, onReorder }) {
   return (
     <div className="table-card">
       <div className="table-caption">
-        <span>Drag rows to rearrange the order.</span>
+        <span>Drag any row to rearrange the order.</span>
       </div>
       <div className="table-wrapper">
         <table className="tools-table">
           <thead>
             <tr>
-              <th aria-label="Reorder" className="drag-col">Reorder</th>
               {columns.map((column) => (
                 <th key={column.key}>{column.label}</th>
               ))}
@@ -61,22 +60,12 @@ function ToolsTable({ tools, onRowClick, onReorder }) {
                 key={tool.id}
                 className={dragOverId === tool.id ? 'drag-over' : ''}
                 onClick={() => onRowClick(tool)}
+                onDragStart={(event) => handleDragStart(event, tool.id)}
                 onDragOver={(event) => handleDragOver(event, tool.id)}
                 onDrop={(event) => handleDrop(event, tool.id)}
+                onDragEnd={handleDragEnd}
+                draggable
               >
-                <td data-label="Reorder" className="drag-col">
-                  <button
-                    type="button"
-                    className="drag-handle"
-                    draggable
-                    onDragStart={(event) => handleDragStart(event, tool.id)}
-                    onDragEnd={handleDragEnd}
-                    aria-label={`Drag to reorder ${tool.name}`}
-                    onClick={(event) => event.stopPropagation()}
-                  >
-                    ??
-                  </button>
-                </td>
                 <td data-label="Tool Name">
                   <div className="tool-cell">
                     <img src={tool.image} alt={tool.name} />

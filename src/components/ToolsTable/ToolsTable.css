@@ -37,13 +37,17 @@
 
 .tools-table tbody tr {
   transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
-  cursor: pointer;
+  cursor: grab;
 }
 
 .tools-table tbody tr:hover {
   background: rgba(255, 227, 241, 0.6);
   transform: translateY(-1px);
   box-shadow: 0 8px 18px rgba(199, 90, 140, 0.2);
+}
+
+.tools-table tbody tr:active {
+  cursor: grabbing;
 }
 
 .tools-table td {
@@ -70,27 +74,6 @@
   border-radius: 12px;
   object-fit: cover;
   box-shadow: 0 6px 16px rgba(200, 90, 140, 0.2);
-}
-
-.drag-col {
-  width: 84px;
-}
-
-.drag-handle {
-  border: none;
-  background: rgba(248, 221, 236, 0.8);
-  color: #b03b76;
-  padding: 6px 10px;
-  border-radius: 10px;
-  cursor: grab;
-  font-size: 1.1rem;
-  letter-spacing: 0.1em;
-  transition: background 0.2s ease, transform 0.2s ease;
-}
-
-.drag-handle:active {
-  cursor: grabbing;
-  transform: scale(0.98);
 }
 
 .drag-over {
@@ -133,13 +116,5 @@
     content: attr(data-label);
     font-weight: 600;
     color: #7a1d4f;
-  }
-
-  .drag-col {
-    width: 100%;
-  }
-
-  .drag-handle {
-    width: 100%;
   }
 }
