@@ -4,7 +4,7 @@
         "toolNumber":  "T-001",
         "name":  "Hammer",
         "category":  "Hand Tools",
-        "price":  14.99,
+        "price":  11.99,
         "image":  "/assets/tool-photos/t-001-hammer.jpg",
         "description":  "General-purpose hammer for framing, fastening, and light demolition tasks."
     },
@@ -13,7 +13,7 @@
         "toolNumber":  "T-002",
         "name":  "Claw Hammer",
         "category":  "Hand Tools",
-        "price":  17.5,
+        "price":  14.00,
         "image":  "/assets/tool-photos/t-002-claw-hammer.jpg",
         "description":  "Curved claw for nail removal with a balanced steel head."
     },
@@ -22,7 +22,7 @@
         "toolNumber":  "T-003",
         "name":  "Phillips Screwdriver",
         "category":  "Hand Tools",
-        "price":  6.25,
+        "price":  5.00,
         "image":  "/assets/tool-photos/t-003-phillips-screwdriver.jpg",
         "description":  "#2 Phillips tip for common fasteners and hardware."
     },
@@ -31,7 +31,7 @@
         "toolNumber":  "T-004",
         "name":  "Flathead Screwdriver",
         "category":  "Hand Tools",
-        "price":  5.95,
+        "price":  4.76,
         "image":  "/assets/tool-photos/t-004-flathead-screwdriver.jpg",
         "description":  "Slotted tip for cabinet hardware and electrical plates."
     },
@@ -40,7 +40,7 @@
         "toolNumber":  "T-005",
         "name":  "Adjustable Wrench",
         "category":  "Hand Tools",
-        "price":  12.75,
+        "price":  10.20,
         "image":  "/assets/tool-photos/t-005-adjustable-wrench.jpg",
         "description":  "Wide jaw range for bolts, plumbing, and general repairs."
     },
@@ -49,7 +49,7 @@
         "toolNumber":  "T-006",
         "name":  "Combination Wrench Set",
         "category":  "Hand Tools",
-        "price":  29.99,
+        "price":  23.99,
         "image":  "/assets/tool-photos/t-006-wrench-set.jpg",
         "description":  "Metric set with open and box ends for tight spaces."
     },
@@ -58,7 +58,7 @@
         "toolNumber":  "T-007",
         "name":  "Needle Nose Pliers",
         "category":  "Hand Tools",
-        "price":  9.49,
+        "price":  7.59,
         "image":  "/assets/tool-photos/t-007-needle-nose-pliers.jpg",
         "description":  "Long jaws for bending wire and precision gripping."
     },
@@ -67,7 +67,7 @@
         "toolNumber":  "T-008",
         "name":  "Locking Pliers",
         "category":  "Hand Tools",
-        "price":  13.99,
+        "price":  11.19,
         "image":  "/assets/tool-photos/t-008-locking-pliers.jpg",
         "description":  "Self-locking grip for stubborn bolts and clamps."
     },
@@ -76,7 +76,7 @@
         "toolNumber":  "T-009",
         "name":  "Hex Key Set",
         "category":  "Hand Tools",
-        "price":  11.5,
+        "price":  9.20,
         "image":  "/assets/tool-photos/t-009-hex-key-set.jpg",
         "description":  "Compact set for furniture assembly and bike tuning."
     },
@@ -85,7 +85,7 @@
         "toolNumber":  "T-010",
         "name":  "Utility Knife",
         "category":  "Hand Tools",
-        "price":  7.25,
+        "price":  5.80,
         "image":  "/assets/tool-photos/t-010-utility-knife.jpg",
         "description":  "Retractable blade for cutting packaging and drywall."
     },
@@ -94,7 +94,7 @@
         "toolNumber":  "T-011",
         "name":  "Tape Measure 25 ft",
         "category":  "Measuring Tools",
-        "price":  8.99,
+        "price":  7.19,
         "image":  "/assets/tool-photos/t-011-tape-measure.jpg",
         "description":  "Locking tape with clear markings for quick layouts."
     },
@@ -103,7 +103,7 @@
         "toolNumber":  "T-012",
         "name":  "Spirit Level",
         "category":  "Measuring Tools",
-        "price":  15.75,
+        "price":  12.60,
         "image":  "/assets/tool-photos/t-012-spirit-level.jpg",
         "description":  "24-inch level with high-visibility vials."
     },
@@ -112,7 +112,7 @@
         "toolNumber":  "T-013",
         "name":  "Carpenter Square",
         "category":  "Measuring Tools",
-        "price":  19.25,
+        "price":  15.40,
         "image":  "/assets/tool-photos/t-013-carpenter-square.jpg",
         "description":  "Square and angle guide for framing and marking."
     },
@@ -121,7 +121,7 @@
         "toolNumber":  "T-014",
         "name":  "Laser Distance Meter",
         "category":  "Measuring Tools",
-        "price":  49.99,
+        "price":  39.99,
         "image":  "/assets/tool-photos/t-014-laser-distance-meter.jpg",
         "description":  "Digital laser measuring up to 60 meters with memory."
     },
@@ -130,7 +130,7 @@
         "toolNumber":  "T-015",
         "name":  "Stud Finder",
         "category":  "Measuring Tools",
-        "price":  24.5,
+        "price":  19.60,
         "image":  "/assets/tool-photos/t-015-stud-finder.jpg",
         "description":  "Wall scanner for studs, beams, and live wires."
     },
@@ -139,7 +139,7 @@
         "toolNumber":  "T-016",
         "name":  "Cordless Drill",
         "category":  "Power Tools",
-        "price":  89.99,
+        "price":  71.99,
         "image":  "/assets/tool-photos/t-016-cordless-drill.jpg",
         "description":  "18V drill with two-speed gearbox and LED light."
     },
@@ -148,7 +148,7 @@
         "toolNumber":  "T-017",
         "name":  "Impact Driver",
         "category":  "Power Tools",
-        "price":  99.5,
+        "price":  79.60,
         "image":  "/assets/tool-photos/t-017-impact-driver.jpg",
         "description":  "High-torque driver for decking and lag screws."
     },
@@ -157,7 +157,7 @@
         "toolNumber":  "T-018",
         "name":  "Circular Saw",
         "category":  "Power Tools",
-        "price":  129,
+        "price":  103.2,
         "image":  "/assets/tool-photos/t-018-circular-saw.jpg",
         "description":  "7-1/4 inch blade for ripping and crosscuts."
     },
@@ -166,7 +166,7 @@
         "toolNumber":  "T-019",
         "name":  "Jigsaw",
         "category":  "Power Tools",
-        "price":  79,
+        "price":  63.2,
         "image":  "/assets/tool-photos/t-019-jigsaw.jpg",
         "description":  "Variable speed jigsaw for curves and fine cuts."
     },
@@ -175,7 +175,7 @@
         "toolNumber":  "T-020",
         "name":  "Angle Grinder",
         "category":  "Power Tools",
-        "price":  69.5,
+        "price":  55.60,
         "image":  "/assets/tool-photos/t-020-angle-grinder.jpg",
         "description":  "4-1/2 inch grinder for metalwork and masonry."
     },
@@ -184,7 +184,7 @@
         "toolNumber":  "T-021",
         "name":  "Orbital Sander",
         "category":  "Power Tools",
-        "price":  58,
+        "price":  46.4,
         "image":  "/assets/tool-photos/t-021-orbital-sander.jpg",
         "description":  "Random-orbit sander for smooth, swirl-free finishes."
     },
@@ -193,7 +193,7 @@
         "toolNumber":  "T-022",
         "name":  "Heat Gun",
         "category":  "Power Tools",
-        "price":  42,
+        "price":  33.6,
         "image":  "/assets/tool-photos/t-022-heat-gun.jpg",
         "description":  "Dual-temperature gun for shrink wrap and paint removal."
     },
@@ -202,7 +202,7 @@
         "toolNumber":  "T-023",
         "name":  "Air Compressor",
         "category":  "Power Tools",
-        "price":  199,
+        "price":  159.2,
         "image":  "/assets/tool-photos/t-023-air-compressor.jpg",
         "description":  "Portable compressor for brad nailers and inflating."
     },
@@ -211,7 +211,7 @@
         "toolNumber":  "T-024",
         "name":  "Work Light",
         "category":  "Workshop Tools",
-        "price":  34.99,
+        "price":  27.99,
         "image":  "/assets/tool-photos/t-024-work-light.jpg",
         "description":  "Adjustable LED work light with wide flood beam."
     },
@@ -220,7 +220,7 @@
         "toolNumber":  "T-025",
         "name":  "Flashlight",
         "category":  "Workshop Tools",
-        "price":  19.99,
+        "price":  15.99,
         "image":  "/assets/tool-photos/t-025-flashlight.jpg",
         "description":  "Compact aluminum flashlight with high/low modes."
     },
@@ -229,7 +229,7 @@
         "toolNumber":  "T-026",
         "name":  "Step Ladder",
         "category":  "Workshop Tools",
-        "price":  74,
+        "price":  59.2,
         "image":  "/assets/tool-photos/t-026-step-ladder.jpg",
         "description":  "6-foot folding ladder with anti-slip treads."
     },
@@ -238,7 +238,7 @@
         "toolNumber":  "T-027",
         "name":  "Tool Box",
         "category":  "Storage Tools",
-        "price":  39.5,
+        "price":  31.60,
         "image":  "/assets/tool-photos/t-027-tool-box.jpg",
         "description":  "Portable toolbox with removable tray and latch."
     },
@@ -247,7 +247,7 @@
         "toolNumber":  "T-028",
         "name":  "Tool Chest",
         "category":  "Storage Tools",
-        "price":  149,
+        "price":  119.2,
         "image":  "/assets/tool-photos/t-028-tool-chest.jpg",
         "description":  "Rolling tool chest with five smooth-glide drawers."
     },
@@ -256,7 +256,7 @@
         "toolNumber":  "T-029",
         "name":  "Tool Belt",
         "category":  "Storage Tools",
-        "price":  24.99,
+        "price":  19.99,
         "image":  "/assets/tool-photos/t-029-tool-belt.jpg",
         "description":  "Heavy-duty belt with multiple pockets and loops."
     },
@@ -265,7 +265,7 @@
         "toolNumber":  "T-030",
         "name":  "Parts Organizer",
         "category":  "Storage Tools",
-        "price":  18.5,
+        "price":  14.80,
         "image":  "/assets/tool-photos/t-030-parts-organizer.jpg",
         "description":  "Stackable organizer for fasteners and small parts."
     },
@@ -274,7 +274,7 @@
         "toolNumber":  "T-031",
         "name":  "Safety Goggles",
         "category":  "Safety Tools",
-        "price":  9.99,
+        "price":  7.99,
         "image":  "/assets/tool-photos/t-031-safety-goggles.jpg",
         "description":  "Impact-rated goggles with anti-fog coating."
     },
@@ -283,7 +283,7 @@
         "toolNumber":  "T-032",
         "name":  "Work Gloves",
         "category":  "Safety Tools",
-        "price":  12.5,
+        "price":  10.00,
         "image":  "/assets/tool-photos/t-032-work-gloves.jpg",
         "description":  "Cut-resistant gloves with reinforced palms."
     },
@@ -292,7 +292,7 @@
         "toolNumber":  "T-033",
         "name":  "Ear Protection",
         "category":  "Safety Tools",
-        "price":  21,
+        "price":  16.8,
         "image":  "/assets/tool-photos/t-033-ear-protection.jpg",
         "description":  "Over-ear muffs with high noise reduction rating."
     },
@@ -301,7 +301,7 @@
         "toolNumber":  "T-034",
         "name":  "Hard Hat",
         "category":  "Safety Tools",
-        "price":  32,
+        "price":  25.6,
         "image":  "/assets/tool-photos/t-034-hard-hat.jpg",
         "description":  "Adjustable hard hat with suspension system."
     },
@@ -310,7 +310,7 @@
         "toolNumber":  "T-035",
         "name":  "High-Vis Vest",
         "category":  "Safety Tools",
-        "price":  17,
+        "price":  13.6,
         "image":  "/assets/tool-photos/t-035-high-vis-vest.jpg",
         "description":  "Reflective vest for jobsite and roadside visibility."
     },
@@ -319,7 +319,7 @@
         "toolNumber":  "T-036",
         "name":  "First Aid Kit",
         "category":  "Safety Tools",
-        "price":  28,
+        "price":  22.4,
         "image":  "/assets/tool-photos/t-036-first-aid-kit.jpg",
         "description":  "Compact kit with bandages, wipes, and essentials."
     },
@@ -328,7 +328,7 @@
         "toolNumber":  "T-037",
         "name":  "Fire Extinguisher",
         "category":  "Safety Tools",
-        "price":  64,
+        "price":  51.2,
         "image":  "/assets/tool-photos/t-037-fire-extinguisher.jpg",
         "description":  "Multi-purpose extinguisher for shop and garage."
     },
@@ -337,7 +337,7 @@
         "toolNumber":  "T-038",
         "name":  "Multimeter",
         "category":  "Electrical Tools",
-        "price":  45,
+        "price":  36,
         "image":  "/assets/tool-photos/t-038-multimeter.jpg",
         "description":  "Digital meter for voltage, resistance, and continuity."
     },
@@ -346,7 +346,7 @@
         "toolNumber":  "T-039",
         "name":  "Wire Stripper",
         "category":  "Electrical Tools",
-        "price":  14,
+        "price":  11.2,
         "image":  "/assets/tool-photos/t-039-wire-stripper.jpg",
         "description":  "Precision stripper with adjustable gauge stops."
     },
@@ -355,7 +355,7 @@
         "toolNumber":  "T-040",
         "name":  "Soldering Iron",
         "category":  "Electrical Tools",
-        "price":  27,
+        "price":  21.6,
         "image":  "/assets/tool-photos/t-040-soldering-iron.jpg",
         "description":  "60W soldering iron for electronics and repairs."
     },
@@ -364,7 +364,7 @@
         "toolNumber":  "T-041",
         "name":  "Extension Cord 50 ft",
         "category":  "Electrical Tools",
-        "price":  29,
+        "price":  23.2,
         "image":  "/assets/tool-photos/t-041-extension-cord.jpg",
         "description":  "Heavy-duty 12/3 cord for power tools and lights."
     },
@@ -373,7 +373,7 @@
         "toolNumber":  "T-042",
         "name":  "Circuit Tester",
         "category":  "Electrical Tools",
-        "price":  16,
+        "price":  12.8,
         "image":  "/assets/tool-photos/t-042-circuit-tester.jpg",
         "description":  "Non-contact tester for quick live-wire checks."
     },
@@ -382,7 +382,7 @@
         "toolNumber":  "T-043",
         "name":  "Garden Trowel",
         "category":  "Garden Tools",
-        "price":  11,
+        "price":  8.8,
         "image":  "/assets/tool-photos/t-043-garden-trowel.jpg",
         "description":  "Hand trowel for planting, digging, and transplanting."
     },
@@ -391,7 +391,7 @@
         "toolNumber":  "T-044",
         "name":  "Pruning Shears",
         "category":  "Garden Tools",
-        "price":  21.5,
+        "price":  17.20,
         "image":  "/assets/tool-photos/t-044-pruning-shears.jpg",
         "description":  "Sharp bypass shears for shrubs and flowers."
     },
@@ -400,7 +400,7 @@
         "toolNumber":  "T-045",
         "name":  "Garden Hose 50 ft",
         "category":  "Garden Tools",
-        "price":  29,
+        "price":  23.2,
         "image":  "/assets/tool-photos/t-045-garden-hose.jpg",
         "description":  "Flexible hose with leak-resistant fittings."
     },
@@ -409,7 +409,7 @@
         "toolNumber":  "T-046",
         "name":  "Wheelbarrow",
         "category":  "Garden Tools",
-        "price":  89,
+        "price":  71.2,
         "image":  "/assets/tool-photos/t-046-wheelbarrow.jpg",
         "description":  "Steel wheelbarrow for hauling soil and materials."
     },
@@ -418,7 +418,7 @@
         "toolNumber":  "T-047",
         "name":  "Soil Rake",
         "category":  "Garden Tools",
-        "price":  19,
+        "price":  15.2,
         "image":  "/assets/tool-photos/t-047-soil-rake.jpg",
         "description":  "Wide rake head for leveling beds and debris."
     },
@@ -427,7 +427,7 @@
         "toolNumber":  "T-048",
         "name":  "Car Jack",
         "category":  "Automotive Tools",
-        "price":  79,
+        "price":  63.2,
         "image":  "/assets/tool-photos/t-048-car-jack.jpg",
         "description":  "Hydraulic jack with 2-ton lifting capacity."
     },
@@ -436,7 +436,7 @@
         "toolNumber":  "T-049",
         "name":  "Jumper Cables",
         "category":  "Automotive Tools",
-        "price":  24,
+        "price":  19.2,
         "image":  "/assets/tool-photos/t-049-jumper-cables.jpg",
         "description":  "Heavy-gauge cables with insulated clamps."
     },
@@ -445,7 +445,7 @@
         "toolNumber":  "T-050",
         "name":  "OBD-II Scanner",
         "category":  "Automotive Tools",
-        "price":  69,
+        "price":  55.2,
         "image":  "/assets/tool-photos/t-050-obd-scanner.jpg",
         "description":  "Diagnostic scanner for reading and clearing codes."
     }

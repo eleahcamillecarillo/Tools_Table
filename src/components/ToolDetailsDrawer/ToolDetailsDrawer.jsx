@@ -1,6 +1,11 @@
 import { useEffect } from 'react';
 import './ToolDetailsDrawer.css';
 
+const priceFormatter = new Intl.NumberFormat('en-PH', {
+  style: 'currency',
+  currency: 'PHP',
+});
+
 function ToolDetailsDrawer({ tool, isOpen, onClose }) {
   useEffect(() => {
     if (!isOpen) return;
@@ -35,7 +40,7 @@ function ToolDetailsDrawer({ tool, isOpen, onClose }) {
             <div className="drawer-meta">
               <span className="chip">{tool.category}</span>
               <span className="chip">{tool.toolNumber}</span>
-              <span className="chip">${tool.price.toFixed(2)}</span>
+              <span className="chip">{priceFormatter.format(tool.price)}</span>
             </div>
             <p>{tool.description}</p>
           </div>

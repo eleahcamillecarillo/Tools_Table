@@ -5,8 +5,13 @@ const columns = [
   { key: 'name', label: 'Tool Name' },
   { key: 'category', label: 'Category' },
   { key: 'toolNumber', label: 'Tool Number' },
-  { key: 'price', label: 'Price' },
+  { key: 'price', label: 'Price (PHP)' },
 ];
+
+const priceFormatter = new Intl.NumberFormat('en-PH', {
+  style: 'currency',
+  currency: 'PHP',
+});
 
 function ToolsTable({ tools, onRowClick, onReorder }) {
   const [dragOverId, setDragOverId] = useState(null);
@@ -80,7 +85,7 @@ function ToolsTable({ tools, onRowClick, onReorder }) {
                 </td>
                 <td data-label="Category">{tool.category}</td>
                 <td data-label="Tool Number">{tool.toolNumber}</td>
-                <td data-label="Price">${tool.price.toFixed(2)}</td>
+                <td data-label="Price">{priceFormatter.format(tool.price)}</td>
               </tr>
             ))}
           </tbody>
